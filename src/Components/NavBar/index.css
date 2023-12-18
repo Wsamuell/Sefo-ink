@@ -1,0 +1,23 @@
+.Nav-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App-logo {
+  width: 10%;
+  height: auto;
+}
+
+.Nav-list {
+  list-style-type: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.Icon-list {
+}
